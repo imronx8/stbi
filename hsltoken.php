@@ -8,6 +8,7 @@
      <p><a href="download.php">Download</a></p>
       <p><a href="query.php">Pencarian kata kunci</a></p>
       <p><a href="stemming.php">Stemming </a></p>
+      <p><a href="hitungbobot.php">Hitung bobot </a></p>
      
      
      
@@ -77,7 +78,7 @@
         <td><?php echo "" . $data["nama_file"].""?></td>
         <td><?php echo "" . $data["token"].""?></td>
         <td><?php echo "" . $data["tokenstem"].""?></td>
-        <td><?php echo "" . $data["tokenstem2"].""?></td>
+        <td><?php echo "" .$data["tokenstem2"].""?></td>
       </tr>
     </tbody>
         

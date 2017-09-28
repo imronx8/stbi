@@ -8,6 +8,7 @@
      <p><a href="download.php">Download</a></p>
       <p><a href="query.php">Pencarian kata kunci</a></p>
       <p><a href="stemming.php">Stemming </a></p>
+      <p><a href="hitungbobot.php">Hitung bobot </a></p>
      
      
      
